@@ -166,7 +166,7 @@ export const projects = [
     image: blinkitLogo,
     tags: ["Power BI", "Excel", "Data Cleaning"],
     github: "https://github.com/Swatimk11/Data-Analyst/tree/main/Power%20bi",
-    href: "/src/assets/powerbi.pdf",
+    href: "/powerbi.pdf",
 
   },
   // {
