@@ -29,13 +29,17 @@ Follow these steps to set up the project locally:
 ```bash
 git clone https://github.com/Swatimk11/GD-Portfolio.git
 cd GD-Portfolio
-2️⃣ Install Dependencies
+
+###2️⃣ Install Dependencies
+```bash
 npm install
 
-3️⃣ Run the App (Development Mode)
+###3️⃣ Run the App (Development Mode)
+```bash
 npm start
 
-4️⃣ Build for Production
+###4️⃣ Build for Production
+```bash
 npm run build
 
 🌍 Live Demo
