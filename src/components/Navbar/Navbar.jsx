@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { FiMenu, FiX } from "react-icons/fi";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import logo from "../../assets/logo.png"; // Import your logo if needed
+import logo from "../../assets/logoo.png"; // Import your logo if needed
 import "./Navbar.css"; // Import your CSS styles for the Navbar
 
 const Navbar = () => {
